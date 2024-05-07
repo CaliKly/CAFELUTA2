@@ -1,0 +1,7 @@
+C:\Users\alexa\source\repos\cafeneap\cafeneap\obj\Debug\cafeneap.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\cafeneap\cafeneap\obj\Debug\cafeneap.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\cafeneap\cafeneap\bin\Debug\cafeneap.exe.config
+C:\Users\alexa\source\repos\cafeneap\cafeneap\bin\Debug\cafeneap.exe
+C:\Users\alexa\source\repos\cafeneap\cafeneap\bin\Debug\cafeneap.pdb
+C:\Users\alexa\source\repos\cafeneap\cafeneap\obj\Debug\cafeneap.exe
+C:\Users\alexa\source\repos\cafeneap\cafeneap\obj\Debug\cafeneap.pdb

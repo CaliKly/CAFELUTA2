@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\cafeneap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47FA6934-9A2E-48BF-B01F-1A8FBCC0F034}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|c:\\users\\alexa\\source\\repos\\cafeneap\\interfatautilizator_windowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FA6934-9A2E-48BF-B01F-1A8FBCC0F034}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FA6934-9A2E-48BF-B01F-1A8FBCC0F034}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\alexa\\source\\repos\\cafeneap\\interfatautilizator_windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47FA6934-9A2E-48BF-B01F-1A8FBCC0F034}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FA6934-9A2E-48BF-B01F-1A8FBCC0F034}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\alexa\\source\\repos\\cafeneap\\interfatautilizator_windowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FA6934-9A2E-48BF-B01F-1A8FBCC0F034}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FA6934-9A2E-48BF-B01F-1A8FBCC0F034}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\alexa\\source\\repos\\cafeneap\\interfatautilizator_windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FA6934-9A2E-48BF-B01F-1A8FBCC0F034}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541B4A0-507D-424A-A387-521C8389DD50}|cafeneap\\cafeneap.csproj|C:\\Users\\alexa\\source\\repos\\cafeneap\\cafeneap\\gestiunecofetarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541B4A0-507D-424A-A387-521C8389DD50}|cafeneap\\cafeneap.csproj|solutionrelative:cafeneap\\gestiunecofetarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541B4A0-507D-424A-A387-521C8389DD50}|cafeneap\\cafeneap.csproj|C:\\Users\\alexa\\source\\repos\\cafeneap\\cafeneap\\gestiuneinventar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541B4A0-507D-424A-A387-521C8389DD50}|cafeneap\\cafeneap.csproj|solutionrelative:cafeneap\\gestiuneinventar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541B4A0-507D-424A-A387-521C8389DD50}|cafeneap\\cafeneap.csproj|C:\\Users\\alexa\\source\\repos\\cafeneap\\cafeneap\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541B4A0-507D-424A-A387-521C8389DD50}|cafeneap\\cafeneap.csproj|solutionrelative:cafeneap\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\cafeneap\\InterfataUtilizator_WindowsForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\cafeneap\\InterfataUtilizator_WindowsForms\\Form1.Designer.cs",
+              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form1.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:00:27.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\cafeneap\\InterfataUtilizator_WindowsForms\\Program.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\cafeneap\\InterfataUtilizator_WindowsForms\\Program.cs",
+              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Program.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAgwF4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:53:29.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\cafeneap\\InterfataUtilizator_WindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\cafeneap\\InterfataUtilizator_WindowsForms\\Form1.cs",
+              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:53:25.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\cafeneap\\InterfataUtilizator_WindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\cafeneap\\InterfataUtilizator_WindowsForms\\Form1.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:52:20.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Produs.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\cafeneap\\cafeneap\\Produs.cs",
+              "RelativeDocumentMoniker": "cafeneap\\Produs.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\cafeneap\\cafeneap\\Produs.cs",
+              "RelativeToolTip": "cafeneap\\Produs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:49:41.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestiuneCofetarie.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\cafeneap\\cafeneap\\GestiuneCofetarie.cs",
+              "RelativeDocumentMoniker": "cafeneap\\GestiuneCofetarie.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\cafeneap\\cafeneap\\GestiuneCofetarie.cs",
+              "RelativeToolTip": "cafeneap\\GestiuneCofetarie.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:48:33.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestiuneInventar.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\cafeneap\\cafeneap\\GestiuneInventar.cs",
+              "RelativeDocumentMoniker": "cafeneap\\GestiuneInventar.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\cafeneap\\cafeneap\\GestiuneInventar.cs",
+              "RelativeToolTip": "cafeneap\\GestiuneInventar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:48:05.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

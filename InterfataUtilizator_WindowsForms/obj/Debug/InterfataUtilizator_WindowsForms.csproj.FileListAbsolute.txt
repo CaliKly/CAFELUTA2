@@ -1,0 +1,10 @@
+C:\Users\alexa\source\repos\cafeneap\InterfataUtilizator_WindowsForms\bin\Debug\InterfataUtilizator_WindowsForms.exe.config
+C:\Users\alexa\source\repos\cafeneap\InterfataUtilizator_WindowsForms\bin\Debug\InterfataUtilizator_WindowsForms.exe
+C:\Users\alexa\source\repos\cafeneap\InterfataUtilizator_WindowsForms\bin\Debug\InterfataUtilizator_WindowsForms.pdb
+C:\Users\alexa\source\repos\cafeneap\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\cafeneap\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.Form1.resources
+C:\Users\alexa\source\repos\cafeneap\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.Properties.Resources.resources
+C:\Users\alexa\source\repos\cafeneap\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\cafeneap\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\cafeneap\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.exe
+C:\Users\alexa\source\repos\cafeneap\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.pdb

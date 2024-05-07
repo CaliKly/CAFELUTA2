@@ -1,0 +1,3 @@
+Denumire: limonada, Preț: 23, Cantitate: 231124
+Denumire: dsadas, Preț: 21, Cantitate: 312
+Denumire: cafeluta, Preț: 22, Cantitate: 220

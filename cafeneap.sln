@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cafeneap", "cafeneap\cafeneap.csproj", "{F541B4A0-507D-424A-A387-521C8389DD50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfataUtilizator_WindowsForms", "InterfataUtilizator_WindowsForms\InterfataUtilizator_WindowsForms.csproj", "{47FA6934-9A2E-48BF-B01F-1A8FBCC0F034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F541B4A0-507D-424A-A387-521C8389DD50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F541B4A0-507D-424A-A387-521C8389DD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F541B4A0-507D-424A-A387-521C8389DD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F541B4A0-507D-424A-A387-521C8389DD50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47FA6934-9A2E-48BF-B01F-1A8FBCC0F034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FA6934-9A2E-48BF-B01F-1A8FBCC0F034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FA6934-9A2E-48BF-B01F-1A8FBCC0F034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FA6934-9A2E-48BF-B01F-1A8FBCC0F034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {803151B5-1B39-4B9E-9933-E605608141E6}
+	EndGlobalSection
+EndGlobal
